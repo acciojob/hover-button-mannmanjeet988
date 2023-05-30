@@ -4,7 +4,7 @@
 	background-color : black;
 	color : white;
 	border-radius : 5px;
-	border : not;
+	border : 0px none rgb(255, 255, 255);
 	width:120px;
 	height:50px;
 	cursor: pointer;
